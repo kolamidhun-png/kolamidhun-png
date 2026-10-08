@@ -172,7 +172,6 @@ I am a **B.Tech Computer Science and Engineering student specializing in Artific
 
 <!-- UPDATE: change this list as you learn new things -->
 - 🤖 Advanced Artificial Intelligence & Machine Learning concepts
-- 🐍 Python
 - 🧠 Data Structures & Algorithms
 - 💻 Software Development & Full-Stack Development
 - ✨ Modern AI tools
